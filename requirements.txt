@@ -1,0 +1,5 @@
+customtkinter==5.2.1
+matplotlib==3.8.2
+psutil==5.9.6
+pywin32==306
+pillow==10.1.0

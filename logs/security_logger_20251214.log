@@ -1,0 +1,156 @@
+2025-12-14 20:43:54 - __main__ - INFO - ============================================================
+2025-12-14 20:43:54 - __main__ - INFO - Security Event Logger Starting...
+2025-12-14 20:43:54 - __main__ - INFO - ============================================================
+2025-12-14 20:43:54 - core.database - INFO - Database schema initialized successfully
+2025-12-14 20:43:54 - core.database - INFO - Database initialized at E:\osProjects\security_logger\security_events.db
+2025-12-14 20:43:55 - core.event_processor - INFO - Event Processor started
+2025-12-14 20:43:55 - monitors.windows_events - INFO - Windows Event Monitor started
+2025-12-14 20:43:55 - monitors.system_stats - INFO - System Stats Monitor started
+2025-12-14 20:43:55 - monitors.network_monitor - INFO - Network Monitor started
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Initializing file integrity baseline...
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\hosts
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\networks
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\win.ini
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\system.ini
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - Initialized baseline for 84 files
+2025-12-14 20:43:55 - monitors.file_integrity - INFO - File Integrity Monitor started
+2025-12-14 20:43:55 - gui.app - INFO - All monitors started successfully
+2025-12-14 20:43:55 - gui.app - INFO - Application started successfully
+2025-12-14 20:43:55 - core.event_processor - DEBUG - Processed event: Special Privileges Assigned to New Logon (Score: 40)
+2025-12-14 20:43:55 - core.event_processor - DEBUG - Processed event: Successful Logon (Score: 10)
+2025-12-14 20:43:55 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:43:56 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:44:54 - gui.app - INFO - Shutting down application...
+2025-12-14 20:44:55 - monitors.windows_events - INFO - Windows Event Monitor stopped
+2025-12-14 20:44:55 - gui.app - INFO - Stopped windows_events monitor
+2025-12-14 20:44:56 - monitors.system_stats - INFO - System Stats Monitor stopped
+2025-12-14 20:44:56 - gui.app - INFO - Stopped system_stats monitor
+2025-12-14 20:44:57 - monitors.network_monitor - INFO - Network Monitor stopped
+2025-12-14 20:44:57 - gui.app - INFO - Stopped network monitor
+2025-12-14 20:44:58 - monitors.file_integrity - INFO - File Integrity Monitor stopped
+2025-12-14 20:44:58 - gui.app - INFO - Stopped file_integrity monitor
+2025-12-14 20:44:58 - core.event_processor - INFO - Event Processor stopped
+2025-12-14 20:44:58 - gui.app - INFO - Application shutdown complete
+2025-12-14 20:45:00 - __main__ - INFO - ============================================================
+2025-12-14 20:45:00 - __main__ - INFO - Security Event Logger Starting...
+2025-12-14 20:45:00 - __main__ - INFO - ============================================================
+2025-12-14 20:45:00 - core.database - INFO - Database schema initialized successfully
+2025-12-14 20:45:00 - core.database - INFO - Database initialized at E:\osProjects\security_logger\security_events.db
+2025-12-14 20:45:01 - core.event_processor - INFO - Event Processor started
+2025-12-14 20:45:01 - monitors.windows_events - INFO - Windows Event Monitor started
+2025-12-14 20:45:01 - monitors.system_stats - INFO - System Stats Monitor started
+2025-12-14 20:45:01 - monitors.network_monitor - INFO - Network Monitor started
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Initializing file integrity baseline...
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\hosts
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\networks
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\win.ini
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\system.ini
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - Initialized baseline for 84 files
+2025-12-14 20:45:01 - monitors.file_integrity - INFO - File Integrity Monitor started
+2025-12-14 20:45:01 - gui.app - INFO - All monitors started successfully
+2025-12-14 20:45:01 - gui.app - INFO - Application started successfully
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Special Privileges Assigned to New Logon (Score: 40)
+2025-12-14 20:45:01 - core.event_processor - DEBUG - Processed event: Successful Logon (Score: 10)
+2025-12-14 20:45:10 - gui.app - INFO - Shutting down application...
+2025-12-14 20:45:11 - monitors.windows_events - INFO - Windows Event Monitor stopped
+2025-12-14 20:45:11 - gui.app - INFO - Stopped windows_events monitor
+2025-12-14 20:45:12 - monitors.system_stats - INFO - System Stats Monitor stopped
+2025-12-14 20:45:12 - gui.app - INFO - Stopped system_stats monitor
+2025-12-14 20:45:13 - monitors.network_monitor - INFO - Network Monitor stopped
+2025-12-14 20:45:13 - gui.app - INFO - Stopped network monitor
+2025-12-14 20:45:14 - monitors.file_integrity - INFO - File Integrity Monitor stopped
+2025-12-14 20:45:14 - gui.app - INFO - Stopped file_integrity monitor
+2025-12-14 20:45:14 - core.event_processor - INFO - Event Processor stopped
+2025-12-14 20:45:14 - gui.app - INFO - Application shutdown complete
+2025-12-14 20:45:19 - __main__ - INFO - ============================================================
+2025-12-14 20:45:19 - __main__ - INFO - Security Event Logger Starting...
+2025-12-14 20:45:19 - __main__ - INFO - ============================================================
+2025-12-14 20:45:19 - core.database - INFO - Database schema initialized successfully
+2025-12-14 20:45:19 - core.database - INFO - Database initialized at E:\osProjects\security_logger\security_events.db
+2025-12-14 20:45:19 - core.event_processor - INFO - Event Processor started
+2025-12-14 20:45:19 - monitors.windows_events - INFO - Windows Event Monitor started
+2025-12-14 20:45:19 - monitors.system_stats - INFO - System Stats Monitor started
+2025-12-14 20:45:19 - monitors.network_monitor - INFO - Network Monitor started
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Initializing file integrity baseline...
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\hosts
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\networks
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\win.ini
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\system.ini
+2025-12-14 20:45:19 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - Initialized baseline for 84 files
+2025-12-14 20:45:19 - monitors.file_integrity - INFO - File Integrity Monitor started
+2025-12-14 20:45:19 - gui.app - INFO - All monitors started successfully
+2025-12-14 20:45:19 - gui.app - INFO - Application started successfully
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Special Privileges Assigned to New Logon (Score: 40)
+2025-12-14 20:45:20 - core.event_processor - DEBUG - Processed event: Successful Logon (Score: 10)
+2025-12-14 20:45:28 - core.database - INFO - Cleared all data: 26 events, 19 alerts, 13 stats
+2025-12-14 20:45:28 - gui.event_log_view - INFO - All data cleared successfully
+2025-12-14 20:45:36 - gui.app - INFO - Shutting down application...
+2025-12-14 20:45:37 - monitors.windows_events - INFO - Windows Event Monitor stopped
+2025-12-14 20:45:37 - gui.app - INFO - Stopped windows_events monitor
+2025-12-14 20:46:43 - __main__ - INFO - ============================================================
+2025-12-14 20:46:43 - __main__ - INFO - Security Event Logger Starting...
+2025-12-14 20:46:43 - __main__ - INFO - ============================================================
+2025-12-14 20:46:43 - core.database - INFO - Database schema initialized successfully
+2025-12-14 20:46:43 - core.database - INFO - Database initialized at E:\osProjects\security_logger\security_events.db
+2025-12-14 20:46:43 - core.event_processor - INFO - Event Processor started
+2025-12-14 20:46:43 - monitors.windows_events - INFO - Windows Event Monitor started
+2025-12-14 20:46:43 - monitors.system_stats - INFO - System Stats Monitor started
+2025-12-14 20:46:43 - monitors.network_monitor - INFO - Network Monitor started
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Initializing file integrity baseline...
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\hosts
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\System32\drivers\etc\networks
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\win.ini
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Added critical file to baseline: C:\Windows\system.ini
+2025-12-14 20:46:43 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - Initialized baseline for 84 files
+2025-12-14 20:46:43 - monitors.file_integrity - INFO - File Integrity Monitor started
+2025-12-14 20:46:43 - gui.app - INFO - All monitors started successfully
+2025-12-14 20:46:43 - gui.app - INFO - Application started successfully
+2025-12-14 20:46:43 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:43 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - WARNING - Alert triggered: Critical event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:44 - core.event_processor - DEBUG - Processed event: Possible Port Scan (Score: 70)
+2025-12-14 20:46:53 - core.database - INFO - Cleared all data: 6 events, 6 alerts, 2 stats
+2025-12-14 20:46:53 - gui.event_log_view - INFO - All data cleared successfully
+2025-12-14 20:46:56 - gui.app - INFO - Shutting down application...

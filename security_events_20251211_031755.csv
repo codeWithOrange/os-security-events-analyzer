@@ -1,0 +1,501 @@
+id,timestamp,event_type,severity,source,description,event_id,threat_score
+531,2025-12-11T03:17:50.735539,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+530,2025-12-11T03:17:50.729492,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+529,2025-12-11T03:17:50.726498,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+528,2025-12-11T03:17:50.722063,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+527,2025-12-11T03:17:50.718217,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+526,2025-12-11T03:17:50.713213,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+525,2025-12-11T03:17:50.700514,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+524,2025-12-11T03:17:45.736948,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+523,2025-12-11T03:17:45.727714,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+522,2025-12-11T03:17:45.722345,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+521,2025-12-11T03:17:45.716755,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+520,2025-12-11T03:17:45.713633,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+519,2025-12-11T03:17:45.707883,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+518,2025-12-11T03:17:45.699571,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+517,2025-12-11T03:17:40.758950,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+516,2025-12-11T03:17:40.754723,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+515,2025-12-11T03:17:40.750148,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+514,2025-12-11T03:17:40.746259,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+513,2025-12-11T03:17:40.740102,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+512,2025-12-11T03:17:40.733025,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+511,2025-12-11T03:17:40.715086,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+510,2025-12-11T03:17:35.719440,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+509,2025-12-11T03:17:35.715776,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+508,2025-12-11T03:17:35.708965,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+507,2025-12-11T03:17:35.705449,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+506,2025-12-11T03:17:35.701350,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+505,2025-12-11T03:17:35.698356,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+504,2025-12-11T03:17:35.692755,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+503,2025-12-11T03:17:30.867397,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+502,2025-12-11T03:17:30.850068,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+501,2025-12-11T03:17:30.815884,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+500,2025-12-11T03:17:30.795538,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+499,2025-12-11T03:17:30.760240,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+498,2025-12-11T03:17:30.719557,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+497,2025-12-11T03:17:30.691128,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+496,2025-12-11T03:17:25.851284,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+495,2025-12-11T03:17:25.812234,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+494,2025-12-11T03:17:25.774256,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+493,2025-12-11T03:17:25.734108,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+492,2025-12-11T03:17:25.711549,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+491,2025-12-11T03:17:25.692916,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+490,2025-12-11T03:17:25.687560,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+489,2025-12-11T03:17:20.718488,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+488,2025-12-11T03:17:20.713869,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+487,2025-12-11T03:17:20.706132,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+486,2025-12-11T03:17:20.701551,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+485,2025-12-11T03:17:20.696892,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+484,2025-12-11T03:17:20.689712,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+483,2025-12-11T03:17:20.684679,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+482,2025-12-11T03:17:15.722284,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+481,2025-12-11T03:17:15.718274,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+480,2025-12-11T03:17:15.708897,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+479,2025-12-11T03:17:15.703106,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+478,2025-12-11T03:17:15.697763,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+477,2025-12-11T03:17:15.691244,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+476,2025-12-11T03:17:15.682159,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+475,2025-12-11T03:17:10.716594,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+474,2025-12-11T03:17:10.712158,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+473,2025-12-11T03:17:10.702582,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+472,2025-12-11T03:17:10.698547,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+471,2025-12-11T03:17:10.692644,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+470,2025-12-11T03:17:10.686632,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+469,2025-12-11T03:17:10.677861,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+468,2025-12-11T03:17:05.698994,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+467,2025-12-11T03:17:05.694341,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+466,2025-12-11T03:17:05.687065,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+465,2025-12-11T03:17:05.684190,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+464,2025-12-11T03:17:05.679651,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+463,2025-12-11T03:17:05.672650,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+462,2025-12-11T03:17:05.663798,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+461,2025-12-11T03:17:01.353178,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+460,2025-12-11T03:17:01.348563,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+459,2025-12-11T03:17:01.340402,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+458,2025-12-11T03:17:01.335374,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+457,2025-12-11T03:17:01.330241,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+456,2025-12-11T03:17:01.324255,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+455,2025-12-11T03:17:01.319729,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+454,2025-12-11T03:17:01.310769,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+453,2025-12-11T03:17:01.304669,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+452,2025-12-11T03:17:01.297128,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+451,2025-12-11T03:17:01.289927,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+450,2025-12-11T03:17:01.281785,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+449,2025-12-11T03:17:01.274238,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+448,2025-12-11T03:17:01.267087,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+447,2025-12-11T03:17:01.259580,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+446,2025-12-11T03:17:01.252014,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+445,2025-12-11T03:17:01.245657,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+444,2025-12-11T03:17:01.238609,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+443,2025-12-11T03:17:01.231961,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+442,2025-12-11T03:17:01.223138,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+441,2025-12-11T03:17:01.213752,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+440,2025-12-11T03:17:01.206237,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+439,2025-12-11T03:17:01.196897,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+438,2025-12-11T03:17:01.036587,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+437,2025-12-11T03:17:01.028552,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+436,2025-12-11T03:17:01.019501,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+435,2025-12-11T03:17:01.009022,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+434,2025-12-11T03:17:00.956825,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+433,2025-12-11T03:17:00.928759,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+432,2025-12-11T03:17:00.909492,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+431,2025-12-11T03:17:00.890278,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+430,2025-12-11T03:17:00.863340,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+429,2025-12-11T03:17:00.795895,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+428,2025-12-11T03:17:00.763792,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+427,2025-12-11T03:17:00.747576,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+426,2025-12-11T03:17:00.729847,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+425,2025-12-11T03:17:00.711902,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+424,2025-12-11T03:17:00.691362,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+423,2025-12-11T03:17:00.679731,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+422,2025-12-11T03:17:00.657552,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+421,2025-12-11T03:14:53.718227,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+420,2025-12-11T03:14:53.700088,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+419,2025-12-11T03:14:53.682915,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+418,2025-12-11T03:14:53.664782,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+417,2025-12-11T03:14:53.646672,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+416,2025-12-11T03:14:53.629687,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+415,2025-12-11T03:14:53.624079,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+414,2025-12-11T03:14:53.522473,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+413,2025-12-11T03:14:48.726733,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+412,2025-12-11T03:14:48.708815,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+411,2025-12-11T03:14:48.692725,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+410,2025-12-11T03:14:48.673791,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+409,2025-12-11T03:14:48.656850,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+408,2025-12-11T03:14:48.636639,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+407,2025-12-11T03:14:48.621401,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+406,2025-12-11T03:14:43.658144,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+405,2025-12-11T03:14:43.653590,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+404,2025-12-11T03:14:43.641933,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+403,2025-12-11T03:14:43.631875,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+402,2025-12-11T03:14:43.628795,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+401,2025-12-11T03:14:43.624244,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+400,2025-12-11T03:14:43.618621,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+399,2025-12-11T03:14:38.641128,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+398,2025-12-11T03:14:38.638062,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+397,2025-12-11T03:14:38.631349,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+396,2025-12-11T03:14:38.629345,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+395,2025-12-11T03:14:38.626200,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+394,2025-12-11T03:14:38.622642,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+393,2025-12-11T03:14:38.616810,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+392,2025-12-11T03:14:38.520567,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+391,2025-12-11T03:14:33.700557,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+390,2025-12-11T03:14:33.685610,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+389,2025-12-11T03:14:33.670383,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+388,2025-12-11T03:14:33.652589,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+387,2025-12-11T03:14:33.635838,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+386,2025-12-11T03:14:33.620020,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+385,2025-12-11T03:14:33.612144,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+384,2025-12-11T03:14:28.719373,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+383,2025-12-11T03:14:28.702896,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+382,2025-12-11T03:14:28.685838,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+381,2025-12-11T03:14:28.665854,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+380,2025-12-11T03:14:28.644677,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+379,2025-12-11T03:14:28.614892,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+378,2025-12-11T03:14:28.608955,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+377,2025-12-11T03:14:23.699818,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+376,2025-12-11T03:14:23.681156,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+375,2025-12-11T03:14:23.661938,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+374,2025-12-11T03:14:23.644333,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+373,2025-12-11T03:14:23.627026,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+372,2025-12-11T03:14:23.610902,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+371,2025-12-11T03:14:23.606674,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+370,2025-12-11T03:14:23.518359,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+369,2025-12-11T03:14:18.891150,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+368,2025-12-11T03:14:18.843127,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+367,2025-12-11T03:14:18.793215,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+366,2025-12-11T03:14:18.719429,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+365,2025-12-11T03:14:18.661800,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+364,2025-12-11T03:14:18.599214,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+363,2025-12-11T03:14:18.591271,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+362,2025-12-11T03:14:13.966592,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+361,2025-12-11T03:14:13.910234,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+360,2025-12-11T03:14:13.852808,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+359,2025-12-11T03:14:13.791466,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+358,2025-12-11T03:14:13.687700,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+357,2025-12-11T03:14:13.592321,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+356,2025-12-11T03:14:13.582275,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+355,2025-12-11T03:14:08.672310,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+354,2025-12-11T03:14:08.654860,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+353,2025-12-11T03:14:08.639648,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+352,2025-12-11T03:14:08.621255,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+351,2025-12-11T03:14:08.603497,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+350,2025-12-11T03:14:08.587456,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+349,2025-12-11T03:14:08.580595,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+348,2025-12-11T03:14:03.691150,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+347,2025-12-11T03:14:03.669258,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+346,2025-12-11T03:14:03.650024,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+345,2025-12-11T03:14:03.628774,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+344,2025-12-11T03:14:03.605849,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+343,2025-12-11T03:14:03.583163,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+342,2025-12-11T03:14:03.577229,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+341,2025-12-11T03:13:58.671458,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+340,2025-12-11T03:13:58.652120,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+339,2025-12-11T03:13:58.635263,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+338,2025-12-11T03:13:58.619158,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+337,2025-12-11T03:13:58.602768,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+336,2025-12-11T03:13:58.584931,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+335,2025-12-11T03:13:58.574335,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+334,2025-12-11T03:13:53.664495,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+333,2025-12-11T03:13:53.647017,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+332,2025-12-11T03:13:53.630237,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+331,2025-12-11T03:13:53.612926,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+330,2025-12-11T03:13:53.597587,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+329,2025-12-11T03:13:53.578565,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+328,2025-12-11T03:13:53.571362,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+327,2025-12-11T03:13:48.714424,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+326,2025-12-11T03:13:48.688956,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+325,2025-12-11T03:13:48.668255,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+324,2025-12-11T03:13:48.645901,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+323,2025-12-11T03:13:48.622914,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+322,2025-12-11T03:13:48.602378,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+321,2025-12-11T03:13:48.568353,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+320,2025-12-11T03:13:43.608911,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+319,2025-12-11T03:13:43.606374,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+318,2025-12-11T03:13:43.596917,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+317,2025-12-11T03:13:43.591304,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+316,2025-12-11T03:13:43.586765,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+315,2025-12-11T03:13:43.583071,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+314,2025-12-11T03:13:43.565949,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+313,2025-12-11T03:13:38.653441,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+312,2025-12-11T03:13:38.637646,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+311,2025-12-11T03:13:38.621571,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+310,2025-12-11T03:13:38.604723,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+309,2025-12-11T03:13:38.587516,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+308,2025-12-11T03:13:38.569639,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+307,2025-12-11T03:13:38.561060,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+306,2025-12-11T03:13:33.641603,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+305,2025-12-11T03:13:33.626555,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+304,2025-12-11T03:13:33.610369,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+303,2025-12-11T03:13:33.594525,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+302,2025-12-11T03:13:33.578702,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+301,2025-12-11T03:13:33.562724,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+300,2025-12-11T03:13:33.558293,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+299,2025-12-11T03:13:28.670209,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+298,2025-12-11T03:13:28.652184,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: varunaryan.kumarp11@gmail.com,4624,10
+297,2025-12-11T03:13:28.633873,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+296,2025-12-11T03:13:28.615054,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+295,2025-12-11T03:13:28.594526,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+294,2025-12-11T03:13:28.565908,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+293,2025-12-11T03:13:28.554697,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+292,2025-12-11T03:13:23.616267,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: -,4625,60
+291,2025-12-11T03:13:23.567428,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: -,4625,60
+290,2025-12-11T03:13:23.552260,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: -,4625,60
+289,2025-12-11T03:13:18.595053,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+288,2025-12-11T03:13:18.577010,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+287,2025-12-11T03:13:18.560996,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+286,2025-12-11T03:13:18.550337,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: -,4625,60
+285,2025-12-11T03:13:13.654813,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+284,2025-12-11T03:13:13.636157,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+283,2025-12-11T03:13:13.616678,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+282,2025-12-11T03:13:13.600111,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+281,2025-12-11T03:13:13.578755,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+280,2025-12-11T03:13:13.558660,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+279,2025-12-11T03:13:13.547037,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+278,2025-12-11T03:13:08.612416,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+277,2025-12-11T03:13:08.586275,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,40
+276,2025-12-11T03:13:08.553137,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+275,2025-12-11T03:13:08.544421,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,40
+274,2025-12-11T03:13:03.542687,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+273,2025-12-11T03:12:58.539636,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+272,2025-12-11T03:12:53.550713,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+271,2025-12-11T03:12:53.531200,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+270,2025-12-11T03:12:53.507020,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+269,2025-12-11T03:12:48.535470,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,95
+268,2025-12-11T03:12:43.530685,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+267,2025-12-11T03:12:38.526864,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+266,2025-12-11T03:12:33.523845,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+265,2025-12-11T03:12:28.521260,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+264,2025-12-11T03:12:23.520888,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+263,2025-12-11T03:12:23.503062,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+262,2025-12-11T03:12:08.516949,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+261,2025-12-11T03:12:08.500546,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+260,2025-12-11T03:11:54.171005,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+259,2025-12-11T03:11:54.163983,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+258,2025-12-11T03:11:54.156986,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+257,2025-12-11T03:11:54.151375,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+256,2025-12-11T03:11:54.145791,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+255,2025-12-11T03:11:54.139635,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+254,2025-12-11T03:11:54.134048,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+253,2025-12-11T03:11:54.128483,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+252,2025-12-11T03:11:54.123043,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+251,2025-12-11T03:11:54.116007,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+250,2025-12-11T03:11:54.110816,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+249,2025-12-11T03:11:54.104910,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+248,2025-12-11T03:11:54.099229,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+247,2025-12-11T03:11:54.092379,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+246,2025-12-11T03:11:54.086606,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+245,2025-12-11T03:11:54.079561,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+244,2025-12-11T03:11:54.074056,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+243,2025-12-11T03:11:54.068448,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+242,2025-12-11T03:11:54.062285,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+241,2025-12-11T03:11:54.055721,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+240,2025-12-11T03:11:54.050152,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+239,2025-12-11T03:11:54.044337,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+238,2025-12-11T03:11:54.037925,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+237,2025-12-11T03:11:54.028241,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+236,2025-12-11T03:11:54.019491,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+235,2025-12-11T03:11:54.012523,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+234,2025-12-11T03:11:53.957807,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+233,2025-12-11T03:11:53.937881,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+232,2025-12-11T03:11:53.922691,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+231,2025-12-11T03:11:53.904641,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+230,2025-12-11T03:11:53.881828,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+229,2025-12-11T03:11:53.855767,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+228,2025-12-11T03:11:53.821348,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+227,2025-12-11T03:11:53.732819,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+226,2025-12-11T03:11:53.689605,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+225,2025-12-11T03:11:53.639950,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+224,2025-12-11T03:11:53.496807,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+223,2025-12-11T03:11:40.345182,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+222,2025-12-11T03:11:25.447021,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+221,2025-12-11T03:11:25.434421,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+220,2025-12-11T03:11:25.418020,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+219,2025-12-11T03:11:25.396872,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+218,2025-12-11T03:11:25.375879,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+217,2025-12-11T03:11:25.357682,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+216,2025-12-11T03:11:25.340529,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+215,2025-12-11T03:11:10.380589,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+214,2025-12-11T03:11:10.372642,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+213,2025-12-11T03:11:10.357633,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+212,2025-12-11T03:11:10.344513,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+211,2025-12-11T03:11:10.337786,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+210,2025-12-11T03:10:55.537382,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+209,2025-12-11T03:10:55.527507,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+208,2025-12-11T03:10:55.516640,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+207,2025-12-11T03:10:55.506244,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+206,2025-12-11T03:10:55.494192,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+205,2025-12-11T03:10:55.484387,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+204,2025-12-11T03:10:55.475838,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+203,2025-12-11T03:10:55.463990,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+202,2025-12-11T03:10:55.453917,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+201,2025-12-11T03:10:55.442357,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+200,2025-12-11T03:10:55.430672,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+199,2025-12-11T03:10:55.418467,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+198,2025-12-11T03:10:55.406862,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+197,2025-12-11T03:10:55.394323,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+196,2025-12-11T03:10:55.383250,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+195,2025-12-11T03:10:55.372605,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+194,2025-12-11T03:10:55.362777,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+193,2025-12-11T03:10:55.350573,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+192,2025-12-11T03:10:55.336009,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+191,2025-12-11T03:10:40.363643,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+190,2025-12-11T03:10:40.354885,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+189,2025-12-11T03:10:40.334346,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 52.35.150.14 detected,,70
+188,2025-12-11T03:10:25.468860,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+187,2025-12-11T03:10:25.459428,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+186,2025-12-11T03:10:25.445221,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+185,2025-12-11T03:10:25.431877,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+184,2025-12-11T03:10:25.421154,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+183,2025-12-11T03:10:25.407659,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+182,2025-12-11T03:10:25.395877,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+181,2025-12-11T03:10:25.384549,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+180,2025-12-11T03:10:25.370971,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+179,2025-12-11T03:10:25.354607,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+178,2025-12-11T03:10:25.333381,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+177,2025-12-11T03:10:10.418145,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+176,2025-12-11T03:10:10.405871,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+175,2025-12-11T03:10:10.393510,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+174,2025-12-11T03:10:10.381701,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+173,2025-12-11T03:10:10.370456,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+172,2025-12-11T03:10:10.357773,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+171,2025-12-11T03:10:10.345906,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+170,2025-12-11T03:10:10.328713,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+169,2025-12-11T03:09:55.399137,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+168,2025-12-11T03:09:55.386045,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+167,2025-12-11T03:09:55.371260,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 149.40.62.31 detected,,70
+166,2025-12-11T03:09:55.352881,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 127.0.0.1 detected,,70
+165,2025-12-11T03:09:55.342543,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+164,2025-12-11T03:09:55.326384,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+163,2025-12-11T03:09:25.433733,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+162,2025-12-11T03:09:25.427202,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+161,2025-12-11T03:09:25.419201,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+160,2025-12-11T03:09:25.409181,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+159,2025-12-11T03:09:25.403398,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+158,2025-12-11T03:09:25.385290,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+157,2025-12-11T03:09:25.372044,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+156,2025-12-11T03:09:20.404666,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+155,2025-12-11T03:09:20.401458,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+154,2025-12-11T03:09:20.399461,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+153,2025-12-11T03:09:20.395949,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+152,2025-12-11T03:09:20.392440,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+151,2025-12-11T03:09:20.382855,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+150,2025-12-11T03:09:20.363938,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+149,2025-12-11T03:09:15.391381,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+148,2025-12-11T03:09:15.388680,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+147,2025-12-11T03:09:15.385629,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+146,2025-12-11T03:09:15.383486,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+145,2025-12-11T03:09:15.380477,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+144,2025-12-11T03:09:15.374171,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+143,2025-12-11T03:09:15.358439,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+142,2025-12-11T03:09:10.388376,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+141,2025-12-11T03:09:10.385253,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+140,2025-12-11T03:09:10.382099,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+139,2025-12-11T03:09:10.378414,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+138,2025-12-11T03:09:10.375144,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+137,2025-12-11T03:09:10.367192,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+136,2025-12-11T03:09:10.355664,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+135,2025-12-11T03:09:10.334198,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+134,2025-12-11T03:09:10.329686,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+133,2025-12-11T03:09:10.320865,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+132,2025-12-11T03:09:05.377385,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+131,2025-12-11T03:09:05.374385,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+130,2025-12-11T03:09:05.372384,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+129,2025-12-11T03:09:05.369386,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+128,2025-12-11T03:09:05.367004,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+127,2025-12-11T03:09:05.361000,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+126,2025-12-11T03:09:05.353391,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+125,2025-12-11T03:09:00.387873,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+124,2025-12-11T03:09:00.384124,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+123,2025-12-11T03:09:00.381613,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+122,2025-12-11T03:09:00.379147,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+121,2025-12-11T03:09:00.375791,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+120,2025-12-11T03:09:00.366526,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+119,2025-12-11T03:09:00.350617,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+118,2025-12-11T03:08:55.375428,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+117,2025-12-11T03:08:55.372405,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+116,2025-12-11T03:08:55.369410,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+115,2025-12-11T03:08:55.366268,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+114,2025-12-11T03:08:55.362760,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+113,2025-12-11T03:08:55.356596,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+112,2025-12-11T03:08:55.349139,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+111,2025-12-11T03:08:55.329034,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+110,2025-12-11T03:08:55.318809,Possible Port Scan,Critical,Network Monitor,Multiple connection attempts to 74.125.68.81 detected,,70
+109,2025-12-11T03:08:50.403064,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+108,2025-12-11T03:08:50.396477,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+107,2025-12-11T03:08:50.391365,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+106,2025-12-11T03:08:50.387770,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+105,2025-12-11T03:08:50.384500,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+104,2025-12-11T03:08:50.375133,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+103,2025-12-11T03:08:50.356475,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+102,2025-12-11T03:08:45.372653,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+101,2025-12-11T03:08:45.370649,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+100,2025-12-11T03:08:45.366806,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+99,2025-12-11T03:08:45.364282,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+98,2025-12-11T03:08:45.362274,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+97,2025-12-11T03:08:45.355886,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+96,2025-12-11T03:08:45.345285,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+95,2025-12-11T03:08:40.378416,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+94,2025-12-11T03:08:40.375416,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+93,2025-12-11T03:08:40.372416,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+92,2025-12-11T03:08:40.369437,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+91,2025-12-11T03:08:40.364859,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+90,2025-12-11T03:08:40.356680,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+89,2025-12-11T03:08:40.340705,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+88,2025-12-11T03:08:35.363469,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+87,2025-12-11T03:08:35.360472,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+86,2025-12-11T03:08:35.357468,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+85,2025-12-11T03:08:35.354862,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+84,2025-12-11T03:08:35.351292,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+83,2025-12-11T03:08:35.345803,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+82,2025-12-11T03:08:35.336457,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+81,2025-12-11T03:08:30.361883,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+80,2025-12-11T03:08:30.358734,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+79,2025-12-11T03:08:30.356735,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+78,2025-12-11T03:08:30.353402,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+77,2025-12-11T03:08:30.350378,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+76,2025-12-11T03:08:30.344335,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+75,2025-12-11T03:08:30.332211,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+74,2025-12-11T03:08:25.365778,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+73,2025-12-11T03:08:25.362734,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+72,2025-12-11T03:08:25.359737,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+71,2025-12-11T03:08:25.355745,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+70,2025-12-11T03:08:25.347492,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+69,2025-12-11T03:08:25.338724,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+68,2025-12-11T03:08:25.327139,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+67,2025-12-11T03:08:20.364224,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+66,2025-12-11T03:08:20.359330,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+65,2025-12-11T03:08:20.356320,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+64,2025-12-11T03:08:20.352850,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+63,2025-12-11T03:08:20.347178,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+62,2025-12-11T03:08:20.337852,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+61,2025-12-11T03:08:20.323854,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,100
+60,2025-12-11T03:08:15.354911,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+59,2025-12-11T03:08:15.352010,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+58,2025-12-11T03:08:15.350005,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+57,2025-12-11T03:08:15.347461,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+56,2025-12-11T03:08:15.344355,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+55,2025-12-11T03:08:15.334902,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+54,2025-12-11T03:08:15.318468,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,95
+53,2025-12-11T03:08:10.343238,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+52,2025-12-11T03:08:10.339724,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+51,2025-12-11T03:08:10.336721,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+50,2025-12-11T03:08:10.334207,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+49,2025-12-11T03:08:10.331167,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+48,2025-12-11T03:08:10.325162,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+47,2025-12-11T03:08:10.314080,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+46,2025-12-11T03:08:05.345866,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+45,2025-12-11T03:08:05.342346,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+44,2025-12-11T03:08:05.336821,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+43,2025-12-11T03:08:05.332325,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+42,2025-12-11T03:08:05.327319,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+41,2025-12-11T03:08:05.321321,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,75
+40,2025-12-11T03:08:05.310936,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+39,2025-12-11T03:08:00.329228,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+38,2025-12-11T03:08:00.327231,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+37,2025-12-11T03:08:00.324229,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+36,2025-12-11T03:08:00.321228,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
+35,2025-12-11T03:08:00.319229,Successful Logon,Info,Windows Event Log - Security,Successful Logon - User: SYSTEM,4624,10
+34,2025-12-11T03:08:00.316197,Special Privileges Assigned to New Logon,Warning,Windows Event Log - Security,Special Privileges Assigned to New Logon,4672,40
+33,2025-12-11T03:08:00.308661,Failed Logon,Critical,Windows Event Log - Security,Failed Logon - User: administrator,4625,60
+32,2025-12-11T03:07:55.531435,Logoff,Info,Windows Event Log - Security,Logoff,4634,10
