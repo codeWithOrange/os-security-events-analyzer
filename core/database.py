@@ -339,7 +339,7 @@ class DatabaseManager:
             return [(row["event_type"], row["count"]) for row in cursor.fetchall()]
 
     def get_events_timeline(
-        self, hours: int = 24, interval_minutes: int = 60
+        self, hours: int = 24, interval_minutes: int = 50
     ) -> List[Tuple[str, int]]:
         """
         Get event counts over time.
