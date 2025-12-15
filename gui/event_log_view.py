@@ -584,5 +584,5 @@ class EventLogView(ctk.CTkFrame):
                     text_color="#f44336",
                 )
                 error_label.pack(pady=(0, 10))
-                self.after(3000, error_label.destroy)
+                self.after(2000, error_label.destroy)
                 print(f"Error clearing data: {e}")
