@@ -32,7 +32,7 @@ class EventLogView(ctk.CTkFrame):
         self.db_manager = db_manager
         self.current_events = []
         self.auto_refresh_enabled = True
-        self.max_displayed_events = 500  # Limit to prevent performance issues
+        self.max_displayed_events = 400  # Limit to prevent performance issues
 
         self.configure(fg_color="transparent")
 
